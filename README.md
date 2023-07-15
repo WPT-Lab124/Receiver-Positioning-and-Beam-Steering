@@ -4,13 +4,13 @@
 [![Visits Badge](https://badges.strrl.dev/visits/WPT-Lab124/Receiver-Positioning-and-Beam-Steering)](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering)
 
 
-This project is the implementation of our proposed scheme of receiver positioning and beam steering. With the hardware design models and the source code, you can replicate the findings in our paper and explore new ideas and schemes based on the current design. If you require any further information or if we can be of any assistance, feel free to contact us by creating an [issue](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering/issues) or send us emails.
+This project is the implementation of our proposed scheme of receiver positioning and beam steering. With the hardware design models and the source code, you can replicate the findings in our paper and explore new ideas and schemes based on the current design. If you require any further information or if we can be of any assistance, feel free to contact us by creating an [issue](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering/issues) or sending us emails.
 
 
 <img src="./Assets/Images/stand_and_receiver.png"  width="70%" height="70%">
 
 This project includes:
-- source code (in python) that implements the functionalities and the experimental protocols
+- source code (in Python) that implements the functionalities and the experimental protocols
 - 3D-printing models (STL files) for the mechanical design
 - PCB design for the receiver
 - experimental results in video form
@@ -40,7 +40,7 @@ This project includes:
 ## Preparation
 - To get started, you need to have two stepper motors, two motor controllers, Raspberry Pi 4B with Camera module v2 (or other computers and cameras, but the code needs modification), an infrared filter, an infrared laser (e.g., 100 mW, 808nm), and two laser mirrors.
 - Manufacture the 3D-printing models and the PCB, and assemble everything.
-- Setup the python environment on Raspberry Pi. See [Ref](https://www.youtube.com/watch?v=QzVYnG-WaM4&t=2s).
+- Set up the Python environment on Raspberry Pi. See [Ref](https://www.youtube.com/watch?v=QzVYnG-WaM4&t=2s).
 - Download the code on your Raspberry Pi.
 - Test the system performance with `main.py`, `protocol_1.py`, or `protocol_2.py`.
 
