@@ -1,10 +1,17 @@
 # Receiver Positioning and Beam Steering
+
+NEWS: 🔥Our paper is accepted by iScience!🔥
+
+[Design principles and implementation of receiver positioning and beam steering for laser power transfer systems](https://www.cell.com/iscience/fulltext/S2589-0042(23)02259-9)
+
+Minshen Lin, Wenxing Zhong
+
 ![License](https://img.shields.io/badge/license-GPL3.0-orange)
 ![Version](https://img.shields.io/github/v/release/WPT-Lab124/Receiver-Positioning-and-Beam-Steering)
 [![Visits Badge](https://badges.strrl.dev/visits/WPT-Lab124/Receiver-Positioning-and-Beam-Steering)](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering)
 
 
-This project is the implementation of our proposed scheme of receiver positioning and beam steering. With the hardware design models and the source code, you can replicate the findings in our paper and explore new ideas and schemes based on the current design. If you require any further information or if we can be of any assistance, feel free to contact us by creating an [issue](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering/issues) or sending us emails.
+This project is the implementation of our proposed scheme of receiver positioning and beam steering for laser power transfer systems. With the hardware design models and the source code, you can replicate the findings in our paper and explore new ideas and schemes based on the current design. If you require any further information or if we can be of any assistance, feel free to contact us by creating an [issue](https://github.com/WPT-Lab124/Receiver-Positioning-and-Beam-Steering/issues) or sending us emails.
 
 
 <img src="./Assets/Images/stand_and_receiver.png"  width="70%" height="70%">
@@ -96,5 +103,3 @@ Author: Minshen Lin and Wenxing Zhong
 Email: linminshen@zju.edu.cn, wxzhong@zju.edu.cn
 
 Institution: Zhejiang University
-
-External link: The link of the paper will be updated after publication.
