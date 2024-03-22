@@ -97,6 +97,20 @@ For researchers outside China, you can purchase similar components on other plat
 
 If we can be of any assistance or if you require any further information, feel free to contact us.
 
+## Citation
+If you find this work useful in your research, please cite:
+```
+@article{lin2023design,
+  title={Design principles and implementation of receiver positioning and beam steering for laser power transfer systems},
+  author={Lin, Minshen and Zhong, Wenxing},
+  journal={Iscience},
+  volume={26},
+  number={11},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
 ## Other Info.
 Author: Minshen Lin and Wenxing Zhong
 
